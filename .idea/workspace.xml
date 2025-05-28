@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe697bec-fd17-4e30-b668-fb1709f73ede" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ISIS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/api/ai/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/api/ai/test1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/api/ai/you5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TG_bot/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TG_bot/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="fe697bec-fd17-4e30-b668-fb1709f73ede" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,12 +128,25 @@
       <workItem from="1748335339480" duration="2039000" />
       <workItem from="1748427618177" duration="899000" />
       <workItem from="1748428768544" duration="6416000" />
-      <workItem from="1748453695118" duration="688000" />
+      <workItem from="1748453695118" duration="1030000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1748454693171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748454693171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
